@@ -1,2 +1,4 @@
 # Hello-World
-Going though tutorial
+Going through tutorial
+hey there,
+          just chill !!
